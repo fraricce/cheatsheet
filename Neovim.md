@@ -17,3 +17,5 @@
 * *:vnew* open new v buffer split
 * *:ls* list all buffers
 * *:b 1* set buffer 1 as active
+* *:vsplit .* open new vertical buffer
+* *ctrl+w w* switch buffer
